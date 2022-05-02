@@ -64,8 +64,8 @@ html {
   }
 
   #hero-section {
-      padding-top: 9.7em;
-      padding-bottom: 8.5em;
+      padding-top: 11.5em;
+      padding-bottom: 9em;
   }
 
   .content {
@@ -96,8 +96,8 @@ html {
       background: none;
       background-color: #3882F6;
       border-radius: 7.5px;
-      padding: 0.5em 2em 0.5em 2em;
-      min-width: 130px;
+      padding: 0.5em 1.5em 0.5em 1.5em;
+      min-width: 120px;
       cursor: pointer;
       color: #F9FAF8;
       font-weight: bold;
@@ -126,6 +126,7 @@ html {
       font-weight: 900;
       font-size: 36px;
       padding: 0;
+      text-align: center;
   }
 
   #showcase-section .content {
@@ -205,8 +206,8 @@ html {
     border: 2px solid #F9FAF8;
     background: none;
     border-radius: 7.5px;
-    min-width: 130px;
-    padding: 0.5em 2em 0.5em 2em;
+    padding: 0.5em 1.5em 0.5em 1.5em;
+    min-width: 120px;
     cursor: pointer;
     color: #F9FAF8;
     font-weight: bold;
